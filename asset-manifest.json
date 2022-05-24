@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tetris-online/static/css/main.e6c13ad2.css",
+    "main.js": "/tetris-online/static/js/main.21773dd2.js",
+    "static/js/787.7e64f256.chunk.js": "/tetris-online/static/js/787.7e64f256.chunk.js",
+    "static/media/zoned-out.mp3": "/tetris-online/static/media/zoned-out.bb2b90d7329e7decba5e.mp3",
+    "static/media/bg2.png": "/tetris-online/static/media/bg2.a5fa04abdd0e3d318600.png",
+    "index.html": "/tetris-online/index.html",
+    "main.e6c13ad2.css.map": "/tetris-online/static/css/main.e6c13ad2.css.map",
+    "main.21773dd2.js.map": "/tetris-online/static/js/main.21773dd2.js.map",
+    "787.7e64f256.chunk.js.map": "/tetris-online/static/js/787.7e64f256.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.21773dd2.js"
+  ]
+}
